@@ -1,0 +1,3 @@
+<div id="customgpt_chat"></div>
+
+<script src="https://cdn.customgpt.ai/js/embed.js" div_id="customgpt_chat" p_id="9422" p_key="ed8a85168ea8155053b7524f384f1dd5" width="100%" height="500px"></script>
